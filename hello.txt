@@ -1,3 +1,5 @@
 some text
 
 some text added in VSCode
+
+some text added in GitHub
